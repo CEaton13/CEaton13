@@ -9,6 +9,8 @@ I love solving complex backend problems while ensuring a seamless user experienc
 
 ### 🛠️ Tech Stack
 
+[![My Skills](https://skillicons.dev/icons?i=java,spring,react,redux,javascript,typescript,postgres,mongodb,aws,docker,git,github,&theme=light)](https://skillicons.dev)
+
 **Languages & Frameworks**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
@@ -30,6 +32,14 @@ I love solving complex backend problems while ensuring a seamless user experienc
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ---
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=CEaton13&show_icons=true&theme=dracula" width="400" />
+  <img src="https://streak-stats.demolab.com/?user=CEaton13&theme=radical" width="400" />
+</p>
+
+---
 
 ### 🏆 Certifications
 
@@ -41,25 +51,15 @@ I love solving complex backend problems while ensuring a seamless user experienc
 
 ### 🔭 Featured Project
 
-#### **ReservaStorm (Hotel Reservation System)**
-A full-stack hotel reservation platform designed to handle complex booking logic and user management.
+#### **BatStats (Warehouse Inventory Management System)**
+A solo built full-stack warehouse inventory management system designed to handle all the storage for everything the Dark Knight may need to deal with the villains of Gotham.
 * **Backend:** Java Spring Boot REST API.
-* **Frontend:** React with Redux Toolkit for state management.
-* **Database:** Integrated with MongoDB for data persistence.
+* **Frontend:** Javascript, HTML, CSS.
+* **Database:** Integrated with PostgreSQL for data persistence.
 * **Testing:** Unit testing implemented via Jest.
-* **Infrastructure:** Containerized with Docker.
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=CEaton13&show_icons=true&theme=dracula" width="400" />
-  <img src="https://streak-stats.demolab.com/?user=CEaton13&theme=radical" width="400" />
-</p>
-
+* [BatStats](https://github.com/CEaton13/BatStats)
 ---
 
 ### 📫 Connect with Me
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/charles-eaton-02489711a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:cre.1323@gmail.com)
+[<img img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">](https://www.linkedin.com/in/charles-eaton-02489711a/)
