@@ -19,7 +19,7 @@ I love solving complex backend problems while ensuring a seamless user experienc
 **Database**
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS Neptune](https://img.shields.io/badge/AWS%20Neptune-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS DocumentDB](https://img.shields.io/badge/AWS%20DocumentDB-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
