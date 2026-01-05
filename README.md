@@ -54,7 +54,7 @@ A full-stack hotel reservation platform designed to handle complex booking logic
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CEaton13&show_icons=true&theme=dracula" width="400" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=CEaton13&show_icons=true&theme=dracula" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CEaton13&layout=compact&theme=dracula" width="400" />
 </p>
 
