@@ -9,7 +9,7 @@ I love solving complex backend problems while ensuring a seamless user experienc
 
 ### 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,react,redux,vite,javascript,typescript,postgres,mongodb,aws,docker,linux,git,cpp,py,vscode,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,react,redux,vite,javascript,typescript,postgres,mongodb,aws,docker,linux,git,vscode,&theme=dark)](https://skillicons.dev)
 
 **Languages & Frameworks**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
