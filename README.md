@@ -17,6 +17,7 @@ I love solving complex backend problems while ensuring a seamless user experienc
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Database**
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -27,6 +28,7 @@ I love solving complex backend problems while ensuring a seamless user experienc
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **Testing**
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
@@ -51,15 +53,14 @@ I love solving complex backend problems while ensuring a seamless user experienc
 
 ### 🔭 Featured Project
 
-#### **BatStats (Warehouse Inventory Management System)**
-A solo built full-stack warehouse inventory management system designed to handle all the storage for everything the Dark Knight may need to deal with the villains of Gotham.
+#### **[BatStats (Warehouse Inventory Management)](https://github.com/CEaton13/BatStats)**
+A solo-built full-stack inventory system designed to manage the Dark Knight's extensive gadgetry and storage needs.
 * **Backend:** Java Spring Boot REST API.
 * **Frontend:** Javascript, HTML, CSS.
 * **Database:** Integrated with PostgreSQL for data persistence.
 * **Testing:** Unit testing implemented via Jest.
-* [BatStats](https://github.com/CEaton13/BatStats)
 ---
 
 ### 📫 Connect with Me
 
-[<img img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">](https://www.linkedin.com/in/charles-eaton-02489711a/)
+[<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">](https://www.linkedin.com/in/charles-eaton-02489711a/)
