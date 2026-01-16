@@ -63,4 +63,4 @@ A solo-built full-stack inventory system designed to manage the Dark Knight's ex
 
 ### 📫 Connect with Me
 
-[<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">](www.linkedin.com/in/charles-eaton-dev)
+[<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">](http://www.linkedin.com/in/charles-eaton-dev/)
