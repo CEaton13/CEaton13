@@ -1,4 +1,5 @@
-# Hi there, I'm Charles Eaton! 👋
+<img width="3168" height="1344" alt="Gemini_Generated_Image_4kwzdb4kwzdb4kwz" src="https://github.com/user-attachments/assets/416522b1-7835-453e-a9b7-7a3109b4ee20" />
+
 ### Software Developer | Full Stack Engineer | Cloud Enthusiast
 
 I am a Full Stack Developer specializing in building scalable web applications using **Java Spring Boot** and **React**. Currently, I am expanding my expertise in Cloud Architecture, focusing on **AWS**, containerization, and orchestration.
