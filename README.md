@@ -1,4 +1,4 @@
-<img width="3168" height="1344" alt="Gemini_Generated_Image_4kwzdb4kwzdb4kwz" src="https://github.com/user-attachments/assets/416522b1-7835-453e-a9b7-7a3109b4ee20" />
+<img width="100%" alt="Header Image" src="https://github.com/user-attachments/assets/416522b1-7835-453e-a9b7-7a3109b4ee20" />
 
 ### Software Developer | Full Stack Engineer | Cloud Enthusiast
 
@@ -40,21 +40,27 @@ I love solving complex backend problems while ensuring a seamless user experienc
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=CEaton13&show_icons=true&theme=dracula" width="400" />
-  <img src="https://streak-stats.demolab.com/?user=CEaton13&theme=radical" width="400" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CEaton13&layout=compact&theme=radical" width="400" />
 </p>
 
 ---
 
 ### 🏆 Certifications
 
-* **Oracle Certified Foundations Associate, Java** (1Z0-811)
-* **AWS Certified Cloud Practitioner (CCP)**
 * **AWS Certified Solutions Architect – Associate (SAA)**
+* **AWS Certified Cloud Practitioner (CCP)**
+* **Oracle Certified Foundations Associate, Java** (1Z0-811)
 * *In Progress:* Oracle Certified Associate, Java SE 8 Programmer I (1Z0-808)
 
 ---
 
-### 🔭 Featured Project
+### 🔭 Featured Projects
+
+#### **[ReservaStorm - Hotel Reservation System](https://github.com/CEaton13/ReservaStorm)**
+A full-stack hotel reservation platform built in a collaborative Agile team environment.
+* **Backend:** Robust Java Spring Boot REST API ensuring secure data handling.
+* **Frontend:** Responsive React application with optimized user flows.
+* **Infrastructure:** AWS cloud deployment utilizing DocumentDB and containerized services.
 
 #### **[BatStats (Warehouse Inventory Management)](https://github.com/CEaton13/BatStats)**
 A solo-built full-stack inventory system designed to manage the Dark Knight's extensive gadgetry and storage needs.
@@ -62,6 +68,7 @@ A solo-built full-stack inventory system designed to manage the Dark Knight's ex
 * **Frontend:** Javascript, HTML, CSS.
 * **Database:** Integrated with PostgreSQL for data persistence.
 * **Testing:** Unit testing implemented via Jest.
+
 ---
 
 ### 📫 Connect with Me
