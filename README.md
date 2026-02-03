@@ -10,7 +10,7 @@ I love solving complex backend problems while ensuring a seamless user experienc
 
 ### 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,react,redux,vite,javascript,typescript,postgres,mongodb,aws,docker,linux,git,vscode,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,react,redux,vite,angular,typescript,postgres,mongodb,aws,docker,linux,git,vscode,&theme=dark)](https://skillicons.dev)
 ---
 **Languages & Frameworks**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -19,6 +19,7 @@ I love solving complex backend problems while ensuring a seamless user experienc
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 **Database**
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -48,7 +49,8 @@ I love solving complex backend problems while ensuring a seamless user experienc
 
 * **Oracle Certified Foundations Associate, Java** (1Z0-811)
 * **AWS Certified Cloud Practitioner (CCP)**
-* *In Progress:* AWS Certified Solutions Architect – Associate (SAA)
+* **AWS Certified Solutions Architect – Associate (SAA)**
+* *In Progress:* Oracle Certified Associate, Java SE 8 Programmer I (1Z0-808)
 
 ---
 
