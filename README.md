@@ -60,7 +60,7 @@ I love solving complex backend problems while ensuring a seamless user experienc
 A full-stack hotel reservation platform built in a collaborative Agile team environment.
 * **Backend:** Robust Java Spring Boot REST API ensuring secure data handling.
 * **Frontend:** Responsive React application with optimized user flows.
-* **Infrastructure:** AWS cloud deployment utilizing DocumentDB and containerized services.
+* **Infrastructure:** AWS cloud deployment utilizing DocumentDB, AWS Elastic BeanStalk, and CloudFront for scalibility.
 
 #### **[BatStats (Warehouse Inventory Management)](https://github.com/CEaton13/BatStats)**
 A solo-built full-stack inventory system designed to manage the Dark Knight's extensive gadgetry and storage needs.
