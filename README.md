@@ -2,7 +2,7 @@
 
 ### Software Developer | Full Stack Engineer | Cloud Enthusiast
 
-I am a Full Stack Developer specializing in building scalable web applications using **Java Spring Boot** and **React**. Currently, I am expanding my expertise in Cloud Architecture, focusing on **AWS**, containerization, and orchestration.
+I am a Full Stack Developer specializing in building scalable web applications using **Java Spring Boot**, **Python**, and **React**. Currently, I am expanding my expertise in Cloud Architecture, focusing on **AWS**, containerization, orchestration, and **Agentic AI** frameworks for building multi-agent systems.
 
 I love solving complex backend problems while ensuring a seamless user experience on the frontend.
 
@@ -10,20 +10,29 @@ I love solving complex backend problems while ensuring a seamless user experienc
 
 ### 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,react,redux,vite,angular,typescript,postgres,mongodb,aws,docker,linux,git,vscode,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,spring,fastapi,react,redux,vite,angular,typescript,postgres,mongodb,aws,docker,linux,git,&theme=dark)](https://skillicons.dev)
 ---
 **Languages & Frameworks**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
+**AI & Agentic Frameworks**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-14354C?style=for-the-badge)
+![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-FF9900?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge)
+
 **Database**
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF4F00?style=for-the-badge)
 ![AWS DocumentDB](https://img.shields.io/badge/AWS%20DocumentDB-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 **Cloud & DevOps**
@@ -50,22 +59,29 @@ I love solving complex backend problems while ensuring a seamless user experienc
 * **AWS Certified Solutions Architect – Associate (SAA)**
 * **AWS Certified Cloud Practitioner (CCP)**
 * **Oracle Certified Foundations Associate, Java** (1Z0-811)
-* *In Progress:* Oracle Certified Associate, Java SE 8 Programmer I (1Z0-808)
 
 ---
 
 ### 🔭 Featured Projects
 
+#### **[Multi-Agent AI Chatbot](https://github.com/CEaton13/MultiAgent_Chatbot)**
+A production-ready AI assistant built on a multi-agent architecture to orchestrate specialized LLM agents.
+* **AI & Logic:** Stateful multi-agent graph utilizing **LangGraph** and **LangChain** with Guardrails, Intent Routing, and a multi-turn review loop.
+* **RAG Pipeline:** Integrated with **ChromaDB** for knowledge base Q&A, achieving grounded answers with semantic chunking and embedding retrieval.
+* **Backend:** Async REST API via **Python** and **FastAPI** with Server-Sent Events (SSE) streaming.
+* **Frontend:** Responsive UI built with **React 19**, **TypeScript**, and **TailwindCSS 4**.
+* **Integrations:** Web search via Tavily, email dispatch, and Atlassian Jira ticket creation.
+
 #### **[ReservaStorm - Hotel Reservation System](https://github.com/CEaton13/ReservaStorm)**
 A full-stack hotel reservation platform built in a collaborative Agile team environment.
 * **Backend:** Robust Java Spring Boot REST API ensuring secure data handling.
 * **Frontend:** Responsive React application with optimized user flows.
-* **Infrastructure:** AWS cloud deployment utilizing DocumentDB, AWS Elastic BeanStalk, and CloudFront for scalibility.
+* **Infrastructure:** AWS cloud deployment utilizing DocumentDB, AWS Elastic Beanstalk, and CloudFront for scalability.
 
 #### **[BatStats (Warehouse Inventory Management)](https://github.com/CEaton13/BatStats)**
 A solo-built full-stack inventory system designed to manage the Dark Knight's extensive gadgetry and storage needs.
 * **Backend:** Java Spring Boot REST API.
-* **Frontend:** Javascript, HTML, CSS.
+* **Frontend:** JavaScript, HTML, CSS.
 * **Database:** Integrated with PostgreSQL for data persistence.
 * **Testing:** Unit testing implemented via Jest.
 
